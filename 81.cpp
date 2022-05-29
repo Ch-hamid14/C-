@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int a[5]={10, 20, 30, 40, 50};
+	cout<<"The first and last element is : "<<a[0]<<"  "<<a[4];
+}
